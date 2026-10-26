@@ -1,0 +1,6 @@
+streamlit
+pandas
+python-dotenv
+ibm-watsonx-ai
+scikit-learn
+pypdf
