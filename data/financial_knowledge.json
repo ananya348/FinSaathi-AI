@@ -1,0 +1,52 @@
+
+[
+  {
+    "id": "upi_pin_safety",
+    "topic": "UPI PIN safety",
+    "keywords": ["upi", "pin", "payment", "secret", "otp", "safety"],
+    "content": "Never share your UPI PIN with another person. Your UPI PIN authorises payments. Do not disclose OTPs, passwords, CVVs, or other confidential banking credentials to callers or strangers.",
+    "source_name": "National Payments Corporation of India",
+    "source_url": "https://www.npci.org.in/what-we-do/upi/faqs"
+  },
+  {
+    "id": "upi_receiving_money",
+    "topic": "Receiving money through UPI",
+    "keywords": ["receive", "money", "upi", "qr", "collect", "payment"],
+    "content": "Be cautious of people who ask you to scan a QR code or enter your UPI PIN to receive a reward. Entering a UPI PIN authorises a payment; verify the transaction details before approving it.",
+    "source_name": "National Payments Corporation of India",
+    "source_url": "https://www.npci.org.in/fraud-awareness"
+  },
+  {
+    "id": "monthly_budget",
+    "topic": "Monthly budgeting",
+    "keywords": ["budget", "income", "expense", "spending", "monthly"],
+    "content": "A monthly budget helps you compare income with expenses, plan spending, and identify possible savings. Record essential expenses, flexible expenses, and savings goals. Review the budget regularly and adjust it to your circumstances.",
+    "source_name": "Reserve Bank of India — Financial Literacy Material",
+    "source_url": "https://www.rbi.org.in/commonperson/English/Scripts/PressReleases.aspx?Id=2123"
+  },
+  {
+    "id": "responsible_borrowing",
+    "topic": "Responsible borrowing",
+    "keywords": ["loan", "borrow", "interest", "repayment", "debt", "emi"],
+    "content": "Before borrowing, understand the interest rate, fees, repayment schedule, and total amount payable. Borrow only after assessing whether the repayments fit your budget.",
+    "source_name": "Reserve Bank of India — Financial Literacy Material",
+    "source_url": "https://www.rbi.org.in/commonperson/English/Scripts/PressReleases.aspx?Id=2123"
+  },
+  {
+    "id": "investment_safety",
+    "topic": "Investment safety",
+    "keywords": ["invest", "investment", "returns", "risk", "guaranteed", "scheme"],
+    "content": "Be cautious of investment offers promising unusually high or guaranteed returns. Check the provider's registration and the product's risks through the relevant official regulator before investing.",
+    "source_name": "Reserve Bank of India — Financial Literacy Material",
+    "source_url": "https://www.rbi.org.in/commonperson/English/Scripts/PressReleases.aspx?Id=2123"
+  },
+  {
+    "id": "report_cyber_fraud",
+    "topic": "Reporting cyber financial fraud in India",
+    "keywords": ["fraud", "scam", "report", "money stolen", "cybercrime", "1930"],
+    "content": "If you experience financial cyber fraud in India, contact the national cybercrime helpline at 1930 promptly and report the incident through the official National Cyber Crime Reporting Portal.",
+    "source_name": "National Cyber Crime Reporting Portal",
+    "source_url": "https://cybercrime.gov.in/"
+  }
+]
+
