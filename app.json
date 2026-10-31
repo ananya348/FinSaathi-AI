@@ -1,0 +1,8 @@
+
+{
+  "name": "FinSaathi AI",
+  "description": "An AI-powered financial literacy assistant using RAG, IBM watsonx.ai, and IBM Granite.",
+  "repository": "https://github.com/ananya348/finsaathi-ai",
+  "application_url": "https://finsaathi-ai-h6rrnqqbameargbappahgvk.streamlit.app/",
+  "entry_point": "app.py"
+}
